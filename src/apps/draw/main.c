@@ -1,0 +1,1 @@
+// Drawing application stub\n\n#include <stdint.h>\n\nvoid draw_main() {\n    // Drawing app event loop\n    while (1) {\n        // Handle input\n        // Render\n    }\n}\n\nint main() {\n    draw_main();\n    return 0;\n}\n
